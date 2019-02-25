@@ -202,11 +202,9 @@
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\NuGetPackages": {},
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://localhost/httpAuth/app/nuget/feed/HelloWorld/LocalNuGetFeed/v3/index.json": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
+        "http://UNIT-905.Labs.IntelliJ.Net/httpAuth/app/nuget/feed/HelloWorld/LocalNuGetFeed/v2": {},
+		"https://api.nuget.org/v3/index.json": {}
+	  },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {}
