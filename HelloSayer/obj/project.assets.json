@@ -183,7 +183,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.19",
+    "version": "1.0.21",
     "restore": {
       "projectUniqueName": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
       "projectName": "HelloSayer",
@@ -202,9 +202,11 @@
         "netstandard2.0"
       ],
       "sources": {
-        "http://UNIT-905.Labs.IntelliJ.Net/httpAuth/app/nuget/feed/HelloWorld/LocalNuGetFeed/v2": {},
-		"https://api.nuget.org/v3/index.json": {}
-	  },
+        "C:\\NuGetPackages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://unit-905.labs.intellij.net:8723/guestAuth/app/nuget/v1/FeedService.svc/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {}
