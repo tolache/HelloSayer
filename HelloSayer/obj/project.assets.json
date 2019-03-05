@@ -183,7 +183,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.21",
+    "version": "1.0.22",
     "restore": {
       "projectUniqueName": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
       "projectName": "HelloSayer",
