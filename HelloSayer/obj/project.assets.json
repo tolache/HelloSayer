@@ -183,13 +183,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.24",
+    "version": "1.0.25",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
+      "projectUniqueName": "C:\\Users\\Anatoly.Cherenkov\\Source\\Repos\\tolache\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
       "projectName": "HelloSayer",
-      "projectPath": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
+      "projectPath": "C:\\Users\\Anatoly.Cherenkov\\Source\\Repos\\tolache\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
       "packagesPath": "C:\\Users\\Anatoly.Cherenkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\obj\\",
+      "outputPath": "C:\\Users\\Anatoly.Cherenkov\\Source\\Repos\\tolache\\HelloSayer\\HelloSayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -201,7 +201,7 @@
         "netstandard2.0"
       ],
       "sources": {
-        "http://unit-905.labs.intellij.net:8110/httpAuth/app/nuget/feed/HelloWorld/LocalNuGetFeed/v2": {}
+        "https://tolache.pkgs.visualstudio.com/_packaging/HelloSayer_Feed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
