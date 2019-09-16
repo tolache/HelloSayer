@@ -183,13 +183,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.25",
+    "version": "1.0.26",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anatoly.Cherenkov\\Source\\Repos\\tolache\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
+      "projectUniqueName": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
       "projectName": "HelloSayer",
-      "projectPath": "C:\\Users\\Anatoly.Cherenkov\\Source\\Repos\\tolache\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
+      "projectPath": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\HelloSayer.csproj",
       "packagesPath": "C:\\Users\\Anatoly.Cherenkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anatoly.Cherenkov\\Source\\Repos\\tolache\\HelloSayer\\HelloSayer\\obj\\",
+      "outputPath": "C:\\Users\\Anatoly.Cherenkov\\source\\repos\\HelloSayer\\HelloSayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
