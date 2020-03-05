@@ -195,13 +195,14 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Anatoly.Cherenkov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Anatoly.Cherenkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "https://tolache.pkgs.visualstudio.com/_packaging/HelloSayer_Feed/nuget/v3/index.json": {}
+        "http://unit-905.labs.intellij.net:8110/httpAuth/app/nuget/feed/_Root/RootNuGetFeed/v2": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -225,10 +226,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
