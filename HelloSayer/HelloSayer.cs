@@ -14,7 +14,7 @@ namespace HelloSayer
             }
         }
 
-        private static string useNewtonsoftJson()
+        public static string useNewtonsoftJson()
         {
             Account account = new Account
             {
